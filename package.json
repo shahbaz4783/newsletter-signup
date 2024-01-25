@@ -1,0 +1,17 @@
+{
+  "name": "subscribehub-api",
+  "version": "1.0.0",
+  "description": "Welcome to the **Introduction to SubscribeHub API** project! This lab will guide you through the foundational concepts and goals of the SubscribeHub API project. Before you begin, make sure to review the project prerequisites and understand the key concepts surrounding API development.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
